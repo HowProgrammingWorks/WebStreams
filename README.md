@@ -1,2 +1,1 @@
-# WebStreams
-WebStreams API
+# WebStreams API
